@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Para hacer deploy, la explicación esta en el video 70 sección 3
